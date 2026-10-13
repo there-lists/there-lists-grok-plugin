@@ -1,0 +1,10 @@
+{
+  "name": "there-lists",
+  "version": "1.0.0",
+  "description": "Read and update your There Lists shopping lists from Grok: view lists, add items, check items off, browse stores, and tidy lists. Sign in with Apple; requires There Plus.",
+  "author": { "name": "There Lists", "url": "https://there-landing-brian-ai.vercel.app" },
+  "homepage": "https://there-landing-brian-ai.vercel.app",
+  "repository": "https://github.com/there-lists/there-lists-grok-plugin",
+  "license": "MIT",
+  "keywords": ["there lists", "there app", "there shopping list"]
+}
